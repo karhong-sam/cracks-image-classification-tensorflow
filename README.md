@@ -6,7 +6,8 @@ There are many significant defects in a building that may affect by many factors
 
 
 ## Some modification to use this model training script:
-Changed directory to suit your use case like: `data_dir` and `test_path`
+1. Please download the dataset from here https://drive.google.com/drive/folders/1gzce3NLGtqCkHCY3c2_76FvdG2OJO6cx
+2. Changed directory to suit your use case like: `data_dir` and `test_path`
 
 
 ## Remarks:
