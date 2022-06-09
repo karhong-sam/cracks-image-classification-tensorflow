@@ -6,10 +6,10 @@ There are many significant defects in a building that may affect by many factors
 
 
 ## Some modification to use this model training script:
-1. Please download the dataset from here https://drive.google.com/drive/folders/1gzce3NLGtqCkHCY3c2_76FvdG2OJO6cx
-2. Changed directory to suit your use case like: `data_dir` and `test_path`
+1. Please download the dataset from here https://bit.ly/3xlz1oc
+2. Change directory to suit your use case like `data_dir` and `test_path`
 
 
 ## Remarks:
 
-The training script for transfer learning (**Inception & MobileNet**) are currently outdated. Please modify it accordingly to latest version of tensorflow 2.0. If you want to try the application, please use `model.h5` model saved from **SimpleNN** script.
+The training script for transfer learning (**Inception & MobileNet**) are currently outdated. Please modify it accordingly to latest version of tensorflow 2.0. If you wish to try the application without training new model, please use `model.h5` model saved from **SimpleNN** script.
