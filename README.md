@@ -12,4 +12,4 @@ There are many significant defects in a building that may affect by many factors
 
 ## Remarks:
 
-The training script for transfer learning (**Inception & MobileNet**) are currently outdated. Please modify it accordingly to latest version of tensorflow 2.0. If you wish to try the application without training new model, please use `model.h5` model saved from **SimpleNN** script.
+The training script for transfer learning (**Inception & MobileNet**) are currently **outdated**. Please modify it accordingly to latest version of tensorflow 2.0. If you wish to try the application 'tkinter-gui' without training new model, please use `model.h5` model saved from **SimpleNN** script.
