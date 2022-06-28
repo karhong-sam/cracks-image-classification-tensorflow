@@ -10,6 +10,13 @@ There are many significant defects in a building that may affect by many factors
 2. Change directory to suit your use case like `data_dir` and `test_path`
 
 
+## How To Use It:
+1. Run `app.py`, a GUI will popup.
+2. Select `model.h5` or any saved model on your end and load it.
+3. Now select any cracks image from your directory to test it, dont forget to load it before run.
+4. Classification for that image will be shown on the GUI.
+
+
 ## Remarks:
 
 The training script for transfer learning (**Inception & MobileNet**) are currently **outdated**. Please modify it accordingly to latest version of tensorflow 2.0. If you wish to try the application `tkinter-gui` without training new model, please use `model.h5` model saved from **SimpleNN** script.
