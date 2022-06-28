@@ -12,9 +12,13 @@ There are many significant defects in a building that may affect by many factors
 
 ## How To Use It:
 1. Run `app.py`, a GUI will popup.
+  - <img src="https://github.com/karhong-sam/cracks-image-classification-tensorflow/blob/master/GUI_images/1.png" width="250" height="250">
 2. Select `model.h5` or any saved model on your end and load it.
+  - <img src="https://github.com/karhong-sam/cracks-image-classification-tensorflow/blob/master/GUI_images/2.png" width="250" height="250">
 3. Now select any cracks image from your directory to test it, dont forget to load it before run.
+  - <img src="https://github.com/karhong-sam/cracks-image-classification-tensorflow/blob/master/GUI_images/3.png" width="250" height="250">
 4. Classification for that image will be shown on the GUI.
+  - <img src="https://github.com/karhong-sam/cracks-image-classification-tensorflow/blob/master/GUI_images/4.png" width="250" height="250">
 
 
 ## Remarks:
